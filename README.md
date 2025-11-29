@@ -60,6 +60,10 @@ plt.plot(t,s)
 ## Tablular Column
 
 
+![WhatsApp Image 2025-11-29 at 08 24 29_e2086a1a](https://github.com/user-attachments/assets/52644754-c8d9-4894-b66b-bea6f9d36637)
+
+
+
 
 
 

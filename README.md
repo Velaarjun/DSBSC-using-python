@@ -54,9 +54,6 @@ plt.plot(t,s)
 <img width="684" height="513" alt="image" src="https://github.com/user-attachments/assets/5845ced7-8393-4262-9a18-d4130bc381b9" />
 
 
-
-
-
 ## Tablular Column
 
 
